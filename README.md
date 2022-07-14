@@ -7,7 +7,7 @@ I'm a FullStack Web Developer | iOS developer | UI Designer | VFX Designer | Bac
 - 🔭 I’m currently working on a private project for my school
 - 👯 I’m collaborating with my friends from <a href="https://github.com/ncuhome">@Ncuhome</a>
 - 🐧 Frontend Developer In <a href="https://github.com/Tencent?type=source">@Tencent</a> PCG in the past
-- 🍑 I am internship as a front-end developer in <a href="https://fed.taobao.org/">@Alibaba-inc FED</a> now.
+- 🍑 I am a front-end developer in <a href="https://fed.taobao.org/">@Alibaba-inc FED</a> now.
 - 🎬 <a href="https://movie.douban.com/subject/27624727/"><i>The Three-body Problem in MC</i></a> S1-S2 VFX maker
 - ❤️ Typescript | React | NodeJS lover
 - 🌱 Thinking about the next generation front end library
