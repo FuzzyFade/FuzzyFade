@@ -7,7 +7,7 @@ I'm a FullStack Web Developer | iOS developer | UI Designer | VFX Designer | Bac
 - 🔭 I’m currently working on a private project for my school
 - 👯 I’m collaborating with my friends from <a href="https://github.com/ncuhome">@Ncuhome</a>
 - 🐧 Frontend Developer In <a href="https://github.com/Tencent?type=source">@Tencent</a> PCG in the past
-- 🍑 I am a ⚛️ front-end developer & 🍎 iOS developer in <a href="https://fed.taobao.org/">@Alibaba-inc FED</a> now.
+- 🍑 I am a ⚛️ Front-End & 🍎 iOS Developer in <a href="https://fed.taobao.org/">@Alibaba-inc FED</a> now.
 - 🎬 <a href="https://movie.douban.com/subject/27624727/"><i>The Three-body Problem in MC</i></a> S1-S2 VFX maker
 - ❤️ Typescript | React | NodeJS lover
 - 🌱 Thinking about the next generation front end library
@@ -28,6 +28,8 @@ will precipitate some ideas from time to time
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
