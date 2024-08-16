@@ -19,10 +19,6 @@ will precipitate some ideas from time to time
 - <a href="https://www.notion.so/Area-51-Alien-WTF-Records-8739165b5efd4e32b6704f55e51c0511">My Blog 👽</a>
 - <a href="https://www.zhihu.com/people/huang-ri-xing">Zhihu </a>
 
-## 📄 Resume:
-
-- 😄 See my resume <a href="https://github.com/FuzzyFade/FuzzyFade/blob/master/Resume.md">here</a>.
-
 ## 🔧 Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -40,7 +36,6 @@ will precipitate some ideas from time to time
 
 welcome to consult and exchange all kinds of stuff
 
-- Mail: 1339184537@qq.com
 - Discord: Dex#8967
 
 ## ♻️ Status:
