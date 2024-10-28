@@ -4,8 +4,8 @@
 
 I'm a FullStack Web Developer | iOS developer | UI Designer | VFX Designer | Bachelor of Physics
 
-- 🧑‍💻 I deep love and deep dive app develop and cross-end tech (WebKit / RN / Flutter)
-- 🔫 I focus on cross-end / network performance research, such as SSR / JSI / QUIC
+- 🧑‍💻 Deep love and deep dive app develop and cross-end tech (WebKit / RN / Flutter)
+- 🔫 Focus on cross-end / network performance research, such as SSR / JSI / QUIC
 - 🐧 Frontend Developer In <a href="https://github.com/Tencent?type=source">@Tencent</a> PCG in the past
 - 🍑 I am a ⚛️ Front-End & 🍎 iOS Developer in <a href="https://fed.taobao.org/">@Alibaba-inc FED</a> now.
 - 🎬 <a href="https://movie.douban.com/subject/27624727/"><i>The Three-body Problem in MC</i></a> S1-S2 VFX maker
